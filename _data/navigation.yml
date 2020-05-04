@@ -1,0 +1,10 @@
+title: Navigation
+links:
+  - title: Home
+    link: /
+  - title: About
+    link: /about.html
+  - title: Blog
+    link: /blog.html
+  - title: Staff
+    link: /staff.html

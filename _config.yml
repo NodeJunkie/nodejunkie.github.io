@@ -1,0 +1,26 @@
+email: github@phearzero.com
+theme: jekyll-theme-hacker
+collections:
+  authors:
+    output: true
+defaults:
+  - scope:
+      path: ""
+      type: "authors"
+    values:
+      layout: "author"
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+  - scope:
+      path: ""
+    values:
+      layout: "default"
+plugins:
+  - jekyll-feed
+  - jekyll-octicons
+exclude:
+ - .idea/
+ - nodejunkie.github.io.iml
