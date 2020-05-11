@@ -1,6 +1,6 @@
 {
   "name": "nodejunkie.github.io",
-  "version": "0.0.0-development",
+  "version": "1.0.0",
   "description": "Theme for Github Pages",
   "main": "index.js",
   "scripts": {
