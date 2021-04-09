@@ -1,3 +1,6 @@
+---
+permalink: blog
+---
 ## ✏️ Latest Posts
 
 <ul>
