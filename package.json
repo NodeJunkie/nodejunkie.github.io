@@ -52,7 +52,7 @@
         "@semantic-release/git",
         {
           "assets": [
-            "CHANGELOG.md",
+            "CHANGELOG",
             "package.json"
           ],
           "message": ":bookmark: (release) ${nextRelease.version}\n\n${nextRelease.notes}"
