@@ -1,10 +1,21 @@
 theme: jekyll-theme-hacker
+url: "https://node.phearzero.com"
 plugins:
   - jekyll-feed
   - jekyll-octicons
+  - jekyll-sitemap
 include:
   - .wiki
+  - CHANGELOG.md
 exclude:
  - .idea/
  - nodejunkie.github.io.iml
  - node_modules
+ - package.json
+ - package-lock.json
+ - LICENSE
+ - CNAME
+ - Gemfile
+ - Gemfile.lock
+ - nodejunkie.github.io.gemspec
+ - CHANGELOG
